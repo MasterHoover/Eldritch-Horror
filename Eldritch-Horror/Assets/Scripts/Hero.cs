@@ -26,6 +26,8 @@ public class Hero
 	private int savoirMod;
 
 	private int indiceCount;
+
+	private int locationID;
 	#endregion
 
 	#region Constructors
@@ -74,9 +76,6 @@ public class Hero
 	{
 		currentMp -= amount;
 	}
-
-	public virtual void UniqueAction () {}
-	public virtual void UniquePassive () {}
 	#endregion
 
 	#region Accessors

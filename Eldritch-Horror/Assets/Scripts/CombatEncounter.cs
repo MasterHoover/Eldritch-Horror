@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/* Author: Olivier Reid	
+ * Desc:
+ * Contains the functions that manages Brave encounters and Attack encounters
+ * 
+ * 
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -15,7 +15,7 @@ public class DiceRoller
 	public static int Roll (int amount, bool beni)
 	{
 		JustRoll (amount);
-		return SuccessCalculator.Count (dices, beni);
+		return SuccessCalculator.Count (dices);
 	}
 
 	private static void JustRoll (int amount)

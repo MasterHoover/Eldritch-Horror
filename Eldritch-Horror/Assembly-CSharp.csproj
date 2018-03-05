@@ -53,11 +53,16 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\_EldritchEngine.cs" />
      <Compile Include="Assets\Scripts\CombatEncounter.cs" />
+     <Compile Include="Assets\Scripts\Deck.cs" />
      <Compile Include="Assets\Scripts\Destin.cs" />
      <Compile Include="Assets\Scripts\Dice.cs" />
      <Compile Include="Assets\Scripts\DiceRoller.cs" />
      <Compile Include="Assets\Scripts\Hero.cs" />
+     <Compile Include="Assets\Scripts\Maps\Locations\Location.cs" />
+     <Compile Include="Assets\Scripts\Maps\Locations\MajorLocation.cs" />
+     <Compile Include="Assets\Scripts\Maps\Locations\MinorLocation.cs" />
      <Compile Include="Assets\Scripts\Monster.cs" />
+     <Compile Include="Assets\Scripts\PhaseMachine.cs" />
      <Compile Include="Assets\Scripts\Presage.cs" />
      <Compile Include="Assets\Scripts\SuccessCalculator.cs" />
  <Reference Include="UnityEngine.UI">

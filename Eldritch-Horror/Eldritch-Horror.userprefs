@@ -1,16 +1,15 @@
 ﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Destin.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Maps\Locations\Location.cs">
     <Files>
-      <File FileName="Assets\Scripts\_EldritchEngine.cs" Line="75" Column="6" />
-      <File FileName="Assets\Scripts\Destin.cs" Line="10" Column="2" />
-      <File FileName="Assets\Scripts\Presage.cs" Line="27" Column="21" />
-      <File FileName="Assets\Scripts\Dice.cs" Line="29" Column="24" />
-      <File FileName="Assets\Scripts\SuccessCalculator.cs" Line="8" Column="2" />
-      <File FileName="Assets\Scripts\DiceRoller.cs" Line="7" Column="30" />
-      <File FileName="Assets\Scripts\Monster.cs" Line="5" Column="22" />
-      <File FileName="Assets\Scripts\CombatEncounter.cs" Line="16" Column="56" />
-      <File FileName="Assets\Scripts\Hero.cs" Line="73" Column="2" />
+      <File FileName="Assets\Scripts\CombatEncounter.cs" Line="14" Column="21" />
+      <File FileName="Assets\Scripts\DiceRoller.cs" Line="18" Column="41" />
+      <File FileName="Assets\Scripts\_EldritchEngine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PhaseMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hero.cs" Line="30" Column="13" />
+      <File FileName="Assets\Scripts\Maps\Locations\Location.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\Maps\Locations\MajorLocation.cs" Line="7" Column="23" />
+      <File FileName="Assets\Scripts\Maps\Locations\MinorLocation.cs" Line="7" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
